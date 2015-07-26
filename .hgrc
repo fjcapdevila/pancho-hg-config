@@ -1,0 +1,11 @@
+[ui]
+username = Francisco J. Capdevila  <mymail@domain.com>
+verbose = True
+
+[extensions]
+color =
+graphlog =
+
+[color]
+mode = auto
+
