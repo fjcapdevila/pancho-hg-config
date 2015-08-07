@@ -9,3 +9,6 @@ graphlog =
 [color]
 mode = auto
 
+[alias]
+blame = annotate --user --number
+
