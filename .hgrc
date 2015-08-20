@@ -1,6 +1,7 @@
 [ui]
 username = Francisco J. Capdevila  <mymail@domain.com>
 verbose = True
+merge = internal:merge
 
 [extensions]
 color =
